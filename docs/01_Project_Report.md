@@ -6,9 +6,9 @@
 
 | | |
 |---|---|
-| **Project title** | IntelliMetrics AI: A Governed Semantic Layer with TARA, an AI Assistant for Trusted Business Metrics |
+| **Project title** | Business Intelligence Semantic Layers With Metric Definition Consistency |
 | **Document** | Project Report |
-| **Team members** | Devi Priya, Priyanka, Akshay and Bhaskar |
+| **Team members** | Sneha, Aashish, Jaswar and Sushanth |
 | **Institution** | KL University |
 | **Academic year** | 2026-27 |
 | **Date** | 26-Oct-2026 (IST) |
